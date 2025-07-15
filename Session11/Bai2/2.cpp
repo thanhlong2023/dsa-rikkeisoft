@@ -23,16 +23,13 @@ Node *createNode(int data)
 void printList(Node *head)
 {
     Node *current = head;
+    int idx = 1;
     while (current != NULL)
     {
-        printf("%d ", current->data);
-        if (current->next != NULL)
-        {
-            printf(" <-> ");
-        }
+        printf("Node %d: %d\n", idx, current->data);
+        idx++;
         current = current->next;
     }
-    printf("\n");
 }
 
 int main()
