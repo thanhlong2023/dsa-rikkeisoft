@@ -2,5 +2,66 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session1/Bai1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session1/Bai2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session1/Bai3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session1/Bai4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session10/Bai1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session10/Bai2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session10/Bai3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session10/Bai4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session10/Bai5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session10/Bai6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session10/Bai7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session11/Bai1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session11/Bai2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session11/Bai3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session11/Bai4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session12/Bai1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session12/Bai2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session12/Bai3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session12/Bai4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session12/Bai5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session12/Bai6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session12/Bai7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session2/Bai1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session2/Bai2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session2/Bai3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session2/Bai4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session3/Bai1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session3/Bai2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session3/Bai3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session3/Bai4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session3/Bai5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session3/Bai6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session3/Bai7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session4/Bai1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session4/Bai2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session4/Bai3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session4/Bai4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session5/Bai1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session5/Bai2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session5/Bai3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session5/Bai4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session6/Bai1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session6/Bai2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session6/Bai3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session6/Bai4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session6/Bai5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session6/Bai6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session7/Bai1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session7/Bai2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session7/Bai3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session7/Bai4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session8/Bai1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session8/Bai2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session8/Bai3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session8/Bai4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session8/Bai5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session8/Bai6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session9/Bai1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session9/Bai2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session9/Bai3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Session9/Bai4" vcs="Git" />
   </component>
 </project>
