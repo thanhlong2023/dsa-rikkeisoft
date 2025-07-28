@@ -1,0 +1,2 @@
+1 4 2 5 3 
+So thanh phan lien thong: 1
